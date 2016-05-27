@@ -1,10 +1,8 @@
 {
-"HELLO": "Hi there!\nI’m the personal bot of Rajat, a Interaction Designer from Mumbai.\n![rajat](https://scontent.fmaa1-2.fna.fbcdn.net/v/t1.0-9/12049543_10207389947643456_4172301395995832099_n.jpg?oh=9c23df5e2ee44d6a16919ac96c3b5446&oe=57D89049)\nWant to know more about rajat?Try clicking the button below %[Education](postback:education) %[Skills](postback:skills) %[Experience](postback:experience)",
-    "SKILLS": "He loves Sketch\n (http://i.imgur.com/MnbwVRW.png)",
-    
-    
-    
+    "BOT": "Hi there!\nI’m the personal bot of Esther, a Product Marketer from San Francisco.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
+    "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
+    "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back.",
+    "DISCONNECT": "Roger that, EstherBot is back."
 }
