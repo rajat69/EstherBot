@@ -2,6 +2,7 @@
 
     "HELLO": "Hi there!\n I’m the personal bot of Rajat,in a very short time i have learned a lot about him. Do you want to know more about him? Say 'TELL ME' to find out all of them.",
     "HI": "Hi there!\n I’m the personal bot of Rajat,in a very short time i have learned a lot about him. Do you want to know more about him? Say 'TELL ME' to find out all of them.",
+    "HEY": "Hi there!\n I’m the personal bot of Rajat,in a very short time i have learned a lot about him. Do you want to know more about him? Say 'TELL ME' to find out all of them.",
     "FUCK YOU": "That's rude!",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "TELL ME": "Rajat is an Interaction Designer, a software engineer and a firm believer of technology \nAccording to him every problem can be solved if you know how to find solutions using technology \n![rajat](https://scontent.fbom1-1.fna.fbcdn.net/v/t1.0-9/12507559_10207948462205971_6671288585814065359_n.jpg?oh=2b751daf71a5682acd85c7cb9f3b298d&oe=57D1AA33) \nWant to know more about rajat? Try hitting one of the button below %[Skills](postback:skills) %[Education](postback:education) %[Experience](postback:experience)",
