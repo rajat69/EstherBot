@@ -2,8 +2,8 @@
 
     "HELLO": "Hi there!\n I’m the personal bot of Rajat,in a very short time i have learned a lot about him. Do you want to know more about him? Say 'TELL ME' to find out all of them.",
     "I LOVE YOU": "Awh, shucks! I love you too!",
-    "TELL ME": "Rajat is an Interaction Designer, a software engineer and a firm believer of technology \n!According to him every problem can be solved if you know how to find solutions using technology \n![rajat](https://scontent.fbom1-1.fna.fbcdn.net/v/t1.0-9/12507559_10207948462205971_6671288585814065359_n.jpg?oh=2b751daf71a5682acd85c7cb9f3b298d&oe=57D1AA33) \n!Want to know more about rajat? Try hitting one of the button below %[Skills](postback:skills) %[Education](postback:education) %[Experience](postback:experience)",
-    "SKILLS": "Creating intuitive and innovative experiences it needs correct set of tools to embrace your skills.Therefore rajat have been always learning & expertising tools\n![rajat](http://i.imgur.com/MnbwVRW.png)",
+    "TELL ME": "Rajat is an Interaction Designer, a software engineer and a firm believer of technology \nAccording to him every problem can be solved if you know how to find solutions using technology \n![rajat](https://scontent.fbom1-1.fna.fbcdn.net/v/t1.0-9/12507559_10207948462205971_6671288585814065359_n.jpg?oh=2b751daf71a5682acd85c7cb9f3b298d&oe=57D1AA33) \n!Want to know more about rajat? Try hitting one of the button below %[Skills](postback:skills) %[Education](postback:education) %[Experience](postback:experience)",
+    "SKILLS": "Creating intuitive and innovative experiences it needs correct set of tools to embrace your skills.Therefore rajat have been always learning & expertising tools\n![rajat](http://i.imgur.com/MnbwVRW.png) \n Find out more about rajat's Educationa and E#xperience by clicking on the button below %[Education](postback:education) %[Experience](postback:experience)",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, RajatBot is back."
 }
